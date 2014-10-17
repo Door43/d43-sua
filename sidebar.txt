@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sua:home|Door43 (sua)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sua|d43-sua repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sua/archive/master.zip|d43-sua.zip]]
+
+**Recent Changes**
+{{changes>ns = sua}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sua|Ethnologue data]]
+
